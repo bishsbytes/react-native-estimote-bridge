@@ -1,4 +1,3 @@
-
 # react-native-estimote-bridge
 
 ## Getting started
@@ -51,3 +50,5 @@ import RNEstimoteBridge from 'react-native-estimote-bridge';
 RNEstimoteBridge;
 ```
   
+=======
+# react-native-estimote-bridge
